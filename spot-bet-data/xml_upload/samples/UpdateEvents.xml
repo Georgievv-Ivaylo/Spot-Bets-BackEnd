@@ -1,0 +1,10 @@
+ <UpdateEvents>
+	<FootballEvent ID="5097152" EventTime="2018-11-13T19:00:00" Home="Bulgaria" Away="Germany">
+		<Market ID="25179210" Number="1" Name="Match Result">
+			<Selection ID="60475643" Number="1" OddsDecimal="2.60" Participant="HOME" />
+			<Selection ID="60475645" Number="2" OddsDecimal="3.72" Participant="DRAW" />
+			<Selection ID="60475644" Number="3" OddsDecimal="2.25" Participant="AWAY" />
+		</Market>
+		<Market ID="25179248" Number="3" Name="Total Goals" Status="Close" />
+	</FootballEvent>
+ </UpdateEvents>
